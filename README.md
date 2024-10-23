@@ -4,4 +4,6 @@ Meu nome é marcos321yb
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e
 compartilhamento dos meus projetos desenvolvidos
+- Utilizo esse espaço para minha organização e
+compartilhamento dos meus projetos desenvolvidos
 ![slow](https://media.tenor.com/IgqQta2JOeMAAAAj/skull-skull-emoji.gif)
