@@ -4,4 +4,4 @@ Meu nome é marcos321yb
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e
 compartilhamento dos meus projetos desenvolvidos
-![NOSSAAAA](https://tenor.com/pt-BR/search/seu-madruga-gifs)
+![NOSSAAAA] (https://tenor.com/pt-BR/search/seu-madruga-gifs)
